@@ -1,4 +1,4 @@
-# 🖇 How an unmuted family is stored in the data
+# How an unmuted family is stored in the data
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Stored data view</p></figcaption></figure>
 

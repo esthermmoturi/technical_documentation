@@ -1,4 +1,4 @@
-# 💡 Scenarios where muting is applicable
+# Scenarios where muting is applicable
 
 {% hint style="info" %}
 Summary**:** Muting is applicable for individuals and families and they can be unmuted at any time.

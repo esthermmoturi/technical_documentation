@@ -1,4 +1,4 @@
-# 🔓 How to unmute a family
+# How to unmute a family
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Unmuting form</p></figcaption></figure>
 

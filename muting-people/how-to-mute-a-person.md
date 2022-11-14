@@ -1,4 +1,4 @@
-# ❓ How to mute a person
+# How to mute a person
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Muting form for person</p></figcaption></figure>
 

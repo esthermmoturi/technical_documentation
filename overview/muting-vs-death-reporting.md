@@ -1,4 +1,4 @@
-# 🆚 Muting vs Death Reporting
+# Muting vs Death Reporting
 
 A project may support both death reporting and muting - they are not mutually exclusive. Death reporting moves the deceased person to a different part of the family members list and does not allow actions. Muting keeps the person in the family members list and allows actions, just not schedules.
 

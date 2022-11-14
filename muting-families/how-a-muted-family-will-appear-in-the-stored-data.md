@@ -1,4 +1,4 @@
-# 📎 How a muted family will appear in the stored data
+# How a muted family will appear in the stored data
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>How muting appears in the stored data</p></figcaption></figure>
 

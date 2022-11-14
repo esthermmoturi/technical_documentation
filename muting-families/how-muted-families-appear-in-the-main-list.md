@@ -1,4 +1,4 @@
-# 📋 How muted families appear in the main list
+# How muted families appear in the main list
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Appearance on main list</p></figcaption></figure>
 

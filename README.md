@@ -1,4 +1,4 @@
-# 🔕 Muting feature
+# Muting feature
 
 {% hint style="info" %}
 **What is muting?:** Muting is a way of temporarily quieting a person/household.This is accomplished by submitting a form.This form is accessible from the people/place profiles on the People page or from the Reports page.
@@ -26,8 +26,6 @@
 
 </div>
 
-## Quick links
-
 {% content-ref url="overview/scenarios-where-muting-is-applicable.md" %}
 [scenarios-where-muting-is-applicable.md](overview/scenarios-where-muting-is-applicable.md)
 {% endcontent-ref %}
@@ -36,18 +34,6 @@
 [muting-technical-overview-db-updates.md](overview/muting-technical-overview-db-updates.md)
 {% endcontent-ref %}
 
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
 {% content-ref url="muting-people/did-this-exist-before.md" %}
 [did-this-exist-before.md](muting-people/did-this-exist-before.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}

@@ -1,4 +1,4 @@
-# 🟧 Muted person in an active family
+# Muted person in an active family
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Muted person in active family profile</p></figcaption></figure>
 

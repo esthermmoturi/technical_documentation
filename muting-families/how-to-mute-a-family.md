@@ -1,4 +1,4 @@
-# ❓ How to mute a family
+# How to mute a family
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Mobile view of muting form</p></figcaption></figure>
 

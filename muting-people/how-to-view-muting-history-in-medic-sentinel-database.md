@@ -1,4 +1,4 @@
-# 👓 How to view muting history in medic-sentinel database
+# How to view muting history in medic-sentinel database
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Database view</p></figcaption></figure>
 

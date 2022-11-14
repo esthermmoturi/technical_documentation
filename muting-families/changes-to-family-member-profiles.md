@@ -1,4 +1,4 @@
-# 🟧 Changes to family member profiles
+# Changes to family member profiles
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Muted families meber profile appearance</p></figcaption></figure>
 

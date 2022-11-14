@@ -1,4 +1,4 @@
-# 🖇 How a muted or unmuted person will appear in the stored data
+# How a muted or unmuted person will appear in the stored data
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Appearance in stored data</p></figcaption></figure>
 

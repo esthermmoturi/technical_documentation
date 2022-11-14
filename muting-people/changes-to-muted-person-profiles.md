@@ -1,4 +1,4 @@
-# 🟠 Changes to muted person profiles
+# Changes to muted person profiles
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Muted person profile</p></figcaption></figure>
 

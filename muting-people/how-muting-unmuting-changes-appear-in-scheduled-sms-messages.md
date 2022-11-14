@@ -1,4 +1,4 @@
-# 📩 How muting/unmuting changes appear in scheduled SMS messages
+# How muting/unmuting changes appear in scheduled SMS messages
 
 <img src="../.gitbook/assets/image (26).png" alt="" data-size="original">![](<../.gitbook/assets/image (22).png>)
 

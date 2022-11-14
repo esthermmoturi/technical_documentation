@@ -1,4 +1,4 @@
-# 🔓 How to unmute a person
+# How to unmute a person
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Unmuting person form</p></figcaption></figure>
 

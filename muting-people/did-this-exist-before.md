@@ -1,4 +1,4 @@
-# ➡ Did this exist before?
+# Did this exist before?
 
 
 

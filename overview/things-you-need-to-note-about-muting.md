@@ -1,4 +1,4 @@
-# 🗒 Things you need to note about muting
+# Things you need to note about muting
 
 
 

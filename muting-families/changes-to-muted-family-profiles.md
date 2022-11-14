@@ -1,4 +1,4 @@
-# 🟠 Changes to muted family profiles
+# Changes to muted family profiles
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Profile for muted family</p></figcaption></figure>
 
